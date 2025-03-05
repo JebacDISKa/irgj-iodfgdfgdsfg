@@ -1,7 +1,7 @@
 {
   "name": "demoObywatel",
   "short_name": "mObywatel",
-  "start_url": "index.html",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#fff",
